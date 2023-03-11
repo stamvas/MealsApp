@@ -1,5 +1,7 @@
 # the-meal-db
-A simple meal db project made for educational purposes
+A simple meal db project made for educational purposes.
+
+The program call API from https://www.themealdb.com/api.php, show the data and if you want save to DB.
 
 ![image](https://user-images.githubusercontent.com/102976628/224471201-f490ea7c-aeb2-4a4b-8dd9-6c2eb8ec70a7.png)
 
